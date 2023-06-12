@@ -1,7 +1,10 @@
 csn-tml-predictor
 ==============================
 
-Preditor de umidade
+- Modelo de Predição de Umidade do Sinter-Feed (Prova de
+Conceito);
+- Diagnóstico com as variáveis mais importantes para a
+predição de umidade
 
 Project Organization
 ------------
